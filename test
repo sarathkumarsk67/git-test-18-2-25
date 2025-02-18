@@ -4,4 +4,8 @@ thirline
 fouth line
 5th line
 6th line
+<<<<<<< HEAD
 seven  
+=======
+7th line 
+>>>>>>> dev
